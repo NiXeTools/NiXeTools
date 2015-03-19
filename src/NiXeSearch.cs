@@ -1,3 +1,12 @@
+//==============================================================================
+//  Matthias Pfrang
+//  Konstruktion / Design Engineering
+//  WEISS SPINDELTECHNOLOGIE GMBH 
+//  A SIEMENS COMPANY
+//  Matthias.Pfrang@weissgmbh.de 
+//  Fon: +49 9721 7701-172 
+//
+//==============================================================================
 using System;
 using System.Text;
 using System.Collections.Generic;
