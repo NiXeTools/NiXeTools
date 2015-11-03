@@ -1,2 +1,2 @@
 # NiXeTools
-Diffrent little/big journals for Siemen NX (NXOpen)
+Diffrent little/big journals for Siemens NX (NXOpen)
